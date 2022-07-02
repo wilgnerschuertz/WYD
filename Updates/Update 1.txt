@@ -1,0 +1,93 @@
+
+  Update 1.0
+  
+  ~ Personagem Lv 1 (Itens +9 [A])
+  ~ Shire 7 Dias
+  ~ Frango [5]
+  ~ Level 40 Ganhar Arma Sephira +0 45 Dano / 21 Velo  20 Mágico / 12 Skill (Ficar um negócio diferente)
+  ~ Quest Nível 1 - 35
+    ~ Emblema do Orc
+     - Recebe 20x Caixa de Experiência (2k de exp)
+     - Recebe Pack de Classe (A) 120x
+
+  ~ Quest Nível 40 à 116 (Defensor da Alma) 
+  Entrada: Vende no AKI 
+    ~ Caixa da Sabedoria
+     - 15k de Experiência 
+     - 5k de Gold
+    
+    ! Drop QUEST
+     - Ovo de Urso
+     - Âmago de Urso
+
+  ~ Quest Nível 116 - 191 (Jardim de Deus) 
+  Entrada: Vende no AKI 
+    ~ Lágrima Angelical
+     - 30k de Experiência
+     - 10k de Gold
+
+    ! Drop QUEST
+      - Resto de Ori
+      - Resto de Lac
+      - Barra de 1KK
+
+  ~ Quest Nível 191 à 266 (Ress. do Cavaleiro Negro) 
+  Entrada: Vende no AKI 
+    ~ Coração de Kaizen
+      - 150k de Experiência
+      - 20k de Gold
+
+    ! Drop QUEST
+      - Poeira de Ori (Fácil)
+      - Poeira de Lac (Médio)
+  
+  ~ Quest Nível 266 à 321 (Hidra Mortal) 
+  Entrada: Vende no AKI 
+    ~ Olho de Sangue
+      - 300k de Experiência
+      - 50k de Gold
+
+    ! Drop QUEST
+      - Poeira de Ori 
+      - Poeira de Lac
+
+  ~ Quest Nível 322 à 351 (Início da Infelicidade) 
+  Entrada: Dropável (NÃO VENDE). -  Ter um comércio no início do game.
+    ~ Olho de Sangue
+      - 650k de Experiência
+      - 100k de Gold
+
+    ! Drop QUEST
+      - Poeira de Ori 
+      - Poeira de Lac
+
+
+Zona Lan (N)
+  Drops:
+    Medalha Dourada (Médio / Difícil)
+    Barra de Prata (1KK)
+    Classe D
+    Armas D Dano: 45 - 54 Mágico: 20 - 24
+    Sets D
+
+
+Fada do Vale (1h)
+  NPC Missões 
+  X Medalhas Dourada
+
+
+Fada do Vale (2h)
+  Premium Neil
+  X Donate
+
+
+- Área UP Mortais.
+  - Entrada: Fada do Vale
+
+  Área (Quest Benção de Deus (70 - 75)
+  Monstro: Troll Nain e Chef Nain)
+    Como funciona: Com a fada do vale equipada o personagem (MORTAL) pode entrar na quest
+    e evoluir até o nível 400. LEMBRANDO que a cada 10 minutos a área reinicia e o mesmo necessita retornar
+
+    Observações: Verificar a disponibilidade para edição da área aumentando o local e aumentar a quantidade de monstros
+
